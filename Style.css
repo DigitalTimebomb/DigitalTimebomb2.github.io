@@ -1,0 +1,32 @@
+
+h1{
+  color: orangered;
+  text-shadow: 1em;
+  text-align: center !important;
+  font-family: fantasy;
+}
+
+h2{
+  color: lightseagreen;
+  text-shadow: 1em;
+  text-align: center !important;
+  font-family: fantasy;
+}
+
+#name, #home{
+  color: lightseagreen;
+  text-shadow: 1em;
+  text-align: center !important;
+  font-family: fantasy;
+}
+
+
+#greet{
+  color: lightseagreen;
+  text-shadow: 1em;
+  text-align: center !important;
+  font-family: fantasy;
+}
+  
+
+
